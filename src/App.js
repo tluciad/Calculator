@@ -5,6 +5,7 @@ import ScreenInput from './components/screenInput';
 import ClearButton from './components/ClearButton';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
+import React, { Component }  from 'react';
 
 function App() {
 
