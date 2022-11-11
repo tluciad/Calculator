@@ -1,0 +1,14 @@
+{
+  "main.css": "/Calculator/static/css/main.581cbc60.chunk.css",
+  "main.js": "/Calculator/static/js/main.2ca66326.chunk.js",
+  "main.js.map": "/Calculator/static/js/main.2ca66326.chunk.js.map",
+  "static/js/1.71527202.chunk.js": "/Calculator/static/js/1.71527202.chunk.js",
+  "static/js/1.71527202.chunk.js.map": "/Calculator/static/js/1.71527202.chunk.js.map",
+  "runtime~main.js": "/Calculator/static/js/runtime~main.546deb05.js",
+  "runtime~main.js.map": "/Calculator/static/js/runtime~main.546deb05.js.map",
+  "static/media/freecodecamp-logo.png": "/Calculator/static/media/freecodecamp-logo.c00d9484.png",
+  "static/css/main.581cbc60.chunk.css.map": "/Calculator/static/css/main.581cbc60.chunk.css.map",
+  "index.html": "/Calculator/index.html",
+  "precache-manifest.b7ed8dbd428a465eb8e085cd70c33b5f.js": "/Calculator/precache-manifest.b7ed8dbd428a465eb8e085cd70c33b5f.js",
+  "service-worker.js": "/Calculator/service-worker.js"
+}
