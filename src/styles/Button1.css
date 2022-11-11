@@ -1,0 +1,27 @@
+.Containeer-Button1 {
+    height: 83px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    background-color: #1b1b32;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid white;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+    flex: 1 1;
+}
+
+.Containeer-Button1:hover {
+    background-color: #5a01a7;
+}
+
+.operator {
+    background:#00471b;
+}
+
+.operator:hover {
+    background-color: #ff6600;
+}
